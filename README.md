@@ -1,6 +1,7 @@
 # Popular
 :rocket: A Sample application written in [Kotlin][kotlin] and using [Anko][anko].
 
+You can see popular images and videos of Instagram.
 
 ## Description
 - Use popular data
