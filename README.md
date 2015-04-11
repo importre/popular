@@ -4,7 +4,8 @@
 
 ## Description
 - Use popular data
-    - https://api.instagram.com/v1/media/popular?client_id=[CLIENT-ID]
+    - `https://api.instagram.com/v1/media/popular?client_id=<CLIENT-ID>`
+    - Set your [CLIENT_ID][client_id]
 
 
 ## Pre-conditions
@@ -35,3 +36,4 @@
 [rxjava]: https://github.com/ReactiveX/RxJava
 [anko]: https://github.com/JetBrains/anko
 [retrofit]: http://square.github.io/retrofit/
+[client_id]: https://github.com/importre/popular/blob/0.1.0_2/app/src/main/kotlin/io/github/importre/popular/api/Popular.kt#L13
