@@ -4,7 +4,7 @@
 
 ## Description
 - Use popular data
-    - https://api.instagram.com/v1/media/popular?client_id=`<CLIENT-ID>`
+    - https://api.instagram.com/v1/media/popular?client_id=[CLIENT-ID]
 
 
 ## Pre-conditions
