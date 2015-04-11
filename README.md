@@ -17,7 +17,7 @@
 - [Kotlin][kotlin]
 - [Rxjava][rxjava]
 - [Retrofit][retrofit]
-- [anko][anko]
+- [Anko][anko]
 
 
 ## Screenshot
