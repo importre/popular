@@ -7,7 +7,7 @@ You can see popular images and videos of Instagram.
 - Use popular data
     - `https://api.instagram.com/v1/media/popular?client_id=<CLIENT-ID>`
     - Set your [CLIENT_ID][client_id]
-- It's built based on [NavDrawerTemplate][nav_template]
+- Based on [NavDrawerTemplate][nav_template]
 
 
 ## Pre-conditions
