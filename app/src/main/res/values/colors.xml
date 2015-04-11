@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#ffffff</color>
+
+    <color name="main">#2196F3</color>
+    <color name="main_dark">#1976D2</color>
+    <color name="main_accent">#E91E63</color>
+
+    <color name="header_image">#00BCD4</color>
+    <color name="header_video">#607D8B</color>
+
+</resources>

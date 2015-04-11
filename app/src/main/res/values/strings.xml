@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">Popular</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="error_failure">Failed to get data</string>
+    <string name="repo_addr">https://github.com/importre/popular</string>
+
+    <string name="help">Help</string>
+    <string name="help_title">Popular Instagram</string>
+    <string name="help_desc">A sample application written in Kotlin and using Anko.</string>
+    <string name="fork_on_github">Fork on Github</string>
+
+</resources>

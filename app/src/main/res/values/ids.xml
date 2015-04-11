@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <item type="id" name="toolbar" />
+    <item type="id" name="drawer_layout" />
+    <item type="id" name="navdrawer" />
+    <item type="id" name="listview" />
+    <item type="id" name="container" />
+    <item type="id" name="recycler" />
+    <item type="id" name="box" />
+    <item type="id" name="image" />
+    <item type="id" name="video" />
+    <item type="id" name="text" />
+    <item type="id" name="refresh" />
+    <item type="id" name="comment_list" />
+
+</resources>

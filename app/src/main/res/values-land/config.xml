@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <item name="tablet" type="bool">false</item>
+    <item name="landscape" type="bool">true</item>
+
+</resources>
