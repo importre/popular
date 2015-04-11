@@ -7,6 +7,7 @@ You can see popular images and videos of Instagram.
 - Use popular data
     - `https://api.instagram.com/v1/media/popular?client_id=<CLIENT-ID>`
     - Set your [CLIENT_ID][client_id]
+- It's built based on [NavDrawerTemplate][nav_template]
 
 
 ## Pre-conditions
@@ -22,7 +23,7 @@ You can see popular images and videos of Instagram.
 - [Anko][anko]
 
 
-## Screenshot
+## Screenshots
 ![n5](resources/n5.png)
 ![n5_land](resources/n5_land.png)
 
@@ -32,9 +33,9 @@ You can see popular images and videos of Instagram.
 
 
 
-
 [kotlin]: http://kotlinlang.org/
 [rxjava]: https://github.com/ReactiveX/RxJava
 [anko]: https://github.com/JetBrains/anko
 [retrofit]: http://square.github.io/retrofit/
 [client_id]: https://github.com/importre/popular/blob/0.1.0_2/app/src/main/kotlin/io/github/importre/popular/api/Popular.kt#L13
+[nav_template]: https://github.com/importre/NavDrawerTemplate/
